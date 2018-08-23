@@ -1,2 +1,2 @@
 # ci-autocomplete
-Codeigniter代码自动提示
+将文件放到项目下即可实现Codeigniter代码自动提示
